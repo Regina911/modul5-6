@@ -1,0 +1,13 @@
+body{
+    max-width: 250px; 
+    margin-left: 10px;
+    padding-left: 0;
+ }
+ .divclass{
+     background-color: rgb(93, 101, 101);
+ }
+ .divclass:hover{
+     /* transform: scale(1,0); */
+     background-color: rgb(176, 200, 200);
+ }
+ 
